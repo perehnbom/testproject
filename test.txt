@@ -1,6 +1,1 @@
-
-<<<<<<< HEAD
-commit 35
-=======
-new commit 2
->>>>>>> b7526fde754336798260c4e83fa6815ef725b077
+test 4
